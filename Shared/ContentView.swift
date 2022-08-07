@@ -13,6 +13,7 @@ struct ContentView: View {
         Text("GOD has the control of my life")
         Text("spirit lead me where my trust is without borders")
         Text("and my faith will be make stronger.")
+        Text("in the presence of my savior")
             .padding()
     }
 }
