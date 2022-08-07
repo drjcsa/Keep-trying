@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
         Text("GOD has the control of my life")
+        Text("spirit lead me where my trust is without borders")
             .padding()
     }
 }
